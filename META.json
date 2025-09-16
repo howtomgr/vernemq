@@ -1,0 +1,61 @@
+{
+  "category": "mqtt-brokers",
+  "created_date": "2025-09-15T22:48:59.425226",
+  "default_ports": [
+    80,
+    443,
+    1883
+  ],
+  "dependencies": [],
+  "description": "vernemq is a free and open-source MQTT broker. VerneMQ provides scalable MQTT broker",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mqtt-brokers/vernemq",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mqtt-brokers/vernemq",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.425252",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "vernemq",
+  "repository_url": "https://github.com/howtomgr/vernemq",
+  "spec_version": "2.0",
+  "subcategory": "mqtt-brokers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mqtt-brokers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "vernemq Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mqtt-brokers/vernemq"
+}
